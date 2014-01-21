@@ -1,0 +1,17 @@
+.speakers img {
+  height: 100px;
+  width: 100px;
+}
+
+h2.plain img {
+  margin: 0;
+  padding: 0;
+}
+
+section img.plain {
+  border: 0;
+}
+
+section img.smaller {
+  max-height: 60%;
+}
